@@ -16,7 +16,11 @@ deploy_branch  = "gh-pages"
 
 ## -- Misc Configs -- ##
 
+<<<<<<< HEAD
 public_dir      = "public/com"    # compiled site directory
+=======
+public_dir      = "public/github"    # compiled site directory
+>>>>>>> 981c35bcd5c27ba62991e4f863bd6d34b3a1102f
 source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
