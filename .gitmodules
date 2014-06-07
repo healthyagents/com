@@ -1,0 +1,4 @@
+[submodule "https:/github.com/healthyagents/com.git"]
+	path = https:/github.com/healthyagents/com.git
+	url = https://github.com/healthyagents/com.git
+	branch = master
